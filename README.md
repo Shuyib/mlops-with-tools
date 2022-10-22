@@ -20,7 +20,11 @@ make install
 ```bash
 make test
 ```  
+# Shortcut   
+```bash
+make install test
+```  
 
-# Expected output
-1.0
+# Expected output  
+1.0  
 No output
